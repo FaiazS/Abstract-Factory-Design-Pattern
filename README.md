@@ -2,7 +2,9 @@
 ---
 # Overview
 ---
+
 This project demonstrates the Abstract Factory Design Pattern using a simplified example of building platform-specific UI components. The goal is to encapsulate the creation of related objects (Button, Dropdown, Menu) without specifying their concrete classes. This allows you to easily add support for new platforms without changing the client code.
+
 ---
 # Features
 
